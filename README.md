@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mí
 
-Soy un **Team Leader** y **Senior Full-Stack Developer** con más de 3 años de experiencia liderando equipos y desarrollando soluciones innovadoras. Especializado en **Angular**, **Ionic**, **Flutter** y soluciones impulsadas por **IA**.
+Soy un **Team Leader** y **Senior Full-Stack Developer** con más de 4 años de experiencia liderando equipos y desarrollando soluciones innovadoras. Especializado en **Angular**, **Ionic**, **Flutter** y soluciones impulsadas por **IA**.
 
 - 🎯 **Actualmente:** Team Leader & Mobile Developer en **Fusap SRL**
 - 🌱 **Aprendiendo:** Flutter Mobile Development, Ionic 8 con Angular y Firebase
