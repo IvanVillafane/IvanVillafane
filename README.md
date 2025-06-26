@@ -104,16 +104,6 @@ Soy un **Team Leader** y **Senior Full-Stack Developer** con más de 4 años de 
 
 ---
 
-## 🌟 Proyectos Destacados
-
-<div align="center">
-  
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=IvanVillafane&repo=repo-name&theme=tokyonight&hide_border=true)](https://github.com/IvanVillafane)
-  
-</div>
-
----
-
 ## 📈 Actividad de Contribución
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IvanVillafane&theme=tokyo-night&hide_border=true&area=true)
