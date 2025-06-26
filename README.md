@@ -67,7 +67,7 @@ Soy un **Team Leader** y **Senior Full-Stack Developer** con más de 4 años de 
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanVillafane&layout=compact&theme=tokyonight&hide_border=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IvanVillafane&theme=tokyonight&hide_border=true)
+  (https://github-readme-streak-stats.herokuapp.com/?user=IvanVillafane&theme=tokyonight&hide_border=true)
   
 </div>
 
